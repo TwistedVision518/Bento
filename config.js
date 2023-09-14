@@ -126,20 +126,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Anime',
+					link: 'http://aniwave.to/',
 				},
 				{
-					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Instagram',
+					link: 'https://instagram.com',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Gaming',
+					link: 'https://steamunlocked',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Netflix',
+					link: 'https://netflix.com',
 				},
 			],
 		},
@@ -148,20 +148,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'Groww',
+					link: 'https://groww.in/stocks/user/explore',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Movies',
+					link: 'https://seez.su',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Shows',
+					link: 'https://bflix.to',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'Amazon',
+					link: 'https://amazon.in',
 				},
 			],
 		},
