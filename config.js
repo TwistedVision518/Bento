@@ -89,7 +89,7 @@ const CONFIG = {
 			id: '1',
 			name: 'Music',
 			icon: 'headphones',
-			link: 'https://open.spotify.com',
+			link: 'https://music.apple.com/in/browse',
 		},
 		{
 			id: '2',
@@ -135,7 +135,7 @@ const CONFIG = {
 				},
 				{
 					name: 'Gaming',
-					link: 'https://steamunlocked',
+					link: 'https://steamunlocked.net',
 				},
 				{
 					name: 'Netflix',
