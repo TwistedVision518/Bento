@@ -26,7 +26,7 @@ const CONFIG = {
 	bentoLayout: 'bento', // 'bento', 'lists', 'buttons'
 
 	// Weather
-	weatherKey: '66bf1e9175dd46249ce74804231409', // Write here your API Key
+	weatherKey: '2f673c074747b0b43b673c72976f2fd2', // Write here your API Key
 	weatherIcons: 'OneDark', // 'Onedark', 'Nord', 'Dark', 'White'
 	weatherUnit: 'C', // 'F', 'C'
 	weatherLatitude: '18.528984',
