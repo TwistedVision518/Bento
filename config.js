@@ -84,6 +84,12 @@ const CONFIG = {
 			icon: 'youtube',
 			link: 'https://youtube.com/',
 		},
+		{
+			id: '1',
+			name: 'Music',
+			icon: 'headphones',
+			link: 'https://music.apple.com/in/browse',
+		},
 	],
 
 	secondButtonsContainer: [
