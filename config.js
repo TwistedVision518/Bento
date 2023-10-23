@@ -91,12 +91,7 @@ const CONFIG = {
 			link: 'https://music.apple.com/in/browse',
 		},
 
-		{
-			id: '8',
-			name: 'Game',
-			icon: 'headphones',
-			link: 'https://steamunlocked.net',
-		},
+		
 	],
 
 	secondButtonsContainer: [
