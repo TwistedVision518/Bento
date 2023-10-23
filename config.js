@@ -85,10 +85,17 @@ const CONFIG = {
 			link: 'https://youtube.com/',
 		},
 		{
-			id: '1',
+			id: '7',
 			name: 'Music',
 			icon: 'headphones',
 			link: 'https://music.apple.com/in/browse',
+		},
+
+		{
+			id: '8',
+			name: 'Game',
+			icon: 'headphones',
+			link: 'https://steamunlocked.net',
 		},
 	],
 
@@ -116,6 +123,13 @@ const CONFIG = {
 			name: 'Amazon',
 			icon: 'shopping-bag',
 			link: 'https://amazon.in/',
+		},
+
+		{
+			id: '5',
+			name: 'Game',
+			icon: 'headphones',
+			link: 'https://steamunlocked.net',
 		},
 		
 	
