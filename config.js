@@ -14,7 +14,7 @@ const CONFIG = {
 	name: 'Pranav',
 	imageBackground: true,
 	openInNewTab: false,
-	twelveHourFormat: false,
+	twelveHourFormat: true,
 
 	// Greetings
 	greetingMorning: 'Good morning!',
